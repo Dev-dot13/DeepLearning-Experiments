@@ -38,14 +38,14 @@ Develop a CNN-based system to recognize and classify **handwritten digits** from
 
 ## 📘 Group B: Elective Experiments (Any 3)
 
-### ✅ **5. Sentiment Analysis using RNN**
+### ✅ **6. Sentiment Analysis using RNN**
 **Objective:**  
 Create an RNN-based model for **sentiment classification** of text reviews (movie or product).  
 The model classifies text into **positive**, **negative**, or **neutral** categories using labeled datasets.
 
 ---
 
-### ✅ **6. Transfer Learning with Pretrained Models**
+### ✅ **7. Transfer Learning with Pretrained Models**
 **Models Used:** VGG, ResNet, Inception
 
 **Objective:**  
@@ -54,7 +54,7 @@ Fine-tune the model and evaluate its performance.
 
 ---
 
-### ✅ **7. Time Series Forecasting using RNN (LSTM/GRU)**
+### ✅ **8. Time Series Forecasting using RNN (LSTM/GRU)**
 **Objective:**  
 Build a model to **forecast future values** in time series data, such as weather patterns, using **RNN architectures** like **LSTM** or **GRU**.
 
